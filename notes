@@ -9,3 +9,6 @@ Horizontal Rule	---
 Link	[title](https://www.example.com)
 Image	![alt text](image.jpg)
 Git hub is very confusing to understand so far.
+git branch <branch_name> (Create a new branch)
+• git checkout <branch_name> (Switch to a branch)
+• git merge <branch_name> (Merge a branch into the current one)
