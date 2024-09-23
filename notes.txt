@@ -14,3 +14,7 @@ git branch <branch_name> (Create a new branch)
 • git merge <branch_name> (Merge a branch into the current one)
 git branch -m
 git add
+
+Pull requests ar good for collaborates to change code that the owner can see when the pull request is created.
+if the owner likes and approves the changes they can merge it to the main branch and get rid of the collaborators branch if wanted or needed
+    -charlie caputo
