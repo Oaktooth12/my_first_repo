@@ -12,3 +12,5 @@ Git hub is very confusing to understand so far.
 git branch <branch_name> (Create a new branch)
 • git checkout <branch_name> (Switch to a branch)
 • git merge <branch_name> (Merge a branch into the current one)
+git branch -m
+git add
